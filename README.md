@@ -1,2 +1,2 @@
-# Sunrin-Master
+# Sunrin-Manager
 선린 2학년의 시간표, 급식, 과목 별 공지 등을 제공하는 사이트
